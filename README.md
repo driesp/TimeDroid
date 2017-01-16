@@ -1,0 +1,2 @@
+# TimeDroid
+Time Logging Application
